@@ -39,7 +39,7 @@ class ExpenseDB:
 
     def add_expense(self, expense):
         """
-        
+
         """
         if isinstance(expense, Expense):
             self.expenses.append(expense)
@@ -65,3 +65,5 @@ expense = Expense(title="Groceries", amount=50.0)
 expense1 = Expense(title="Fees", amount=200.0)
 expense2 = Expense(title="Gas", amount=300.0)
 expense3 = Expense(title="Rent", amount=4000.0)
+
+
