@@ -52,4 +52,29 @@ To clone this repository, use the following command:
 ```bash
 git clone https://github.com/Ife-dayo/oop-project.git
 
+```
+## How to Run
 
+### Prerequisites
+
+Ensure you have Python installed on your machine.
+
+### Running the Code
+
+1. **Navigate to the project directory:**
+
+    ```bash
+    cd ExpenseManager
+    ```
+
+2. **Run the example script:**
+
+    ```bash
+    python expense_manager.py
+    ```
+
+    This command will execute the example script and showcase the functionality of the implemented classes.
+
+Feel free to explore and customize the code to suit your requirements. If you have any questions or encounter any issues, don't hesitate to reach out or open an issue on GitHub.
+
+Happy coding!
