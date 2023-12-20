@@ -12,7 +12,7 @@ Expense Manager is a simple Python project that provides classes for managing fi
 
 ## Project Structure
 
-ExpenseManager/
+expense-manager/
 |-- expense_manager.py
 |-- readme.md
 
@@ -50,7 +50,7 @@ ExpenseManager/
 To clone this repository, use the following command:
 
 ```bash
-git clone https://github.com/Ife-dayo/oop-project.git
+git clone https://github.com/Ife-dayo/expense-manager.git
 
 ```
 ## How to Run
@@ -64,7 +64,7 @@ Ensure you have Python installed on your machine.
 1. **Navigate to the project directory:**
 
     ```bash
-    cd ExpenseManager
+    cd expense-manager
     ```
 
 2. **Run the example script:**
