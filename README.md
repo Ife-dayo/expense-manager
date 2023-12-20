@@ -1,5 +1,5 @@
 ### README file 
-This file does the following
+This file does the following:
 - Explains the project
 - Explains how to clone it
 - Explains how to run the code
@@ -75,7 +75,7 @@ Ensure you have Python installed on your machine.
 
     This command will execute the example script and showcase the functionality of the implemented classes.
 
-At the end of the implemetation, I've added an example usage to test the functionalities of the code. You can delete that part if you don't need it. 
+(At the end of the implemetation, I've added an example usage to test the functionalities of the code. You can delete that part if you don't need it.)
 
 Feel free to explore and customize the code to suit your requirements. If you have any questions or encounter any issues, don't hesitate to reach out or open an issue.
 
